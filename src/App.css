@@ -1,0 +1,21 @@
+body {
+  background-color: #f8f9fc;
+  margin: 0;
+  padding: 0;
+}
+
+.user-pref {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+}
+
+.mainTitle {
+  font-size: 3rem;
+  font-weight: 900;
+  margin: 1rem 0;
+  width: 100%;
+  text-align: center;
+}

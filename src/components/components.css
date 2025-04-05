@@ -1,0 +1,11 @@
+.pieChart {
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.chartTitle {
+  margin-left: 1rem;
+}
